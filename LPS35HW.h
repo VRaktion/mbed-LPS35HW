@@ -17,7 +17,7 @@
 #ifndef _LPS35HW_H
 #define _LPS35HW_H
 
-#define LPS35HW_I2CADDR_DEFAULT 0x5D ///< LPS35HW default i2c address
+#define LPS35HW_I2CADDR_DEFAULT 0x5C ///< LPS35HW default i2c address
 
 #define LPS35HW_INTERRUPT_CFG 0x0B ///< Interrupt configuration register
 
